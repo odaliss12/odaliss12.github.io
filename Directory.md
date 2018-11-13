@@ -1,9 +1,9 @@
 ---
 layout: page
 title: My Resume
-permalink: /about/
+permalink: /Directory/
 ---
-[hazel figueroa](https://haazelv.github.io)
+* [hazel figueroa](https://haazelv.github.io)
 [Giselle Rivas](https://odaliss12.github.io/)
 [Miriam Hernandez](https://miriamlaguera.github.io/)
 [Christopher Davis](https:/3036154.github.io/)
