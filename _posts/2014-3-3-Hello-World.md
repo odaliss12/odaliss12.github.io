@@ -42,3 +42,7 @@ Bestfriends
 <ul>Jocelinn</ul>
 </li>
 </ul>
+
+<h1>Recent News</h1>
+https://www.cnn.com/2018/11/13/us/california-fires-camp-woolsey-winds/index.html
+Fire Took over California leaving 42 dead.
