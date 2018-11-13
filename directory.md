@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Resume
+title: My class links
 permalink: /directory/
 ---
 * [hazel figueroa](https://haazelv.github.io)
